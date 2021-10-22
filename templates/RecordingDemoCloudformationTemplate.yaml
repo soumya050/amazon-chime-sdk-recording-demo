@@ -15,7 +15,7 @@ Parameters:
     Default: 'recording-demo-container'
   ECSContainerCpu:
     Type: Number
-    Default: 6144
+    Default: 4096
   ECSContainerMemory:
     Type: Number
     Default: 8192
